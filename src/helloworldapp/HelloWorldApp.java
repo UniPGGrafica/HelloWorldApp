@@ -1,5 +1,5 @@
 /*
- *CIAO SIC DOV'E' IL CASCO 
+ *
  */
 package helloworldapp;
 
